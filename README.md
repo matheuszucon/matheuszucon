@@ -1,4 +1,4 @@
-## Oi! Eu sou o Matheus Zucon!
+## Oi! Eu sou o Matheus Zucon! Aluno de Negócios Digitais e apaixonado por tecnologia!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszucon&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszucon&layout=compact&theme=transparent)
