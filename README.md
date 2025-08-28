@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Matheus Zucon! Aluno de Negócios Digitais e apaixonado por tecnologia!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszucon&theme=transparent&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszucon&layout=compact&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuszucon&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszucon&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
