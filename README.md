@@ -92,7 +92,7 @@ Me chamo Matheus Zucon. Sou estudante de Negócios Digitais e Administração em
     alt="GitHub Stats" 
     height="195" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheuszucon&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=matheuszucon&show_icons=true&theme=tra&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
