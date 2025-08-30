@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Matheus Zucon
 
-**`Empreendedor Digital | Estudante de Negócios Digitais | Administração`**
+**`Empreendedor Digital | Estudante de Negócios Digitais e Administração`**
 
 Me chamo Matheus Zucon. Sou estudante de Negócios Digitais e Administração em dupla diplomação na FAE Curitiba. Sou movido pela curiosidade e disciplina para transformar aprendizados em resultados. 
 
