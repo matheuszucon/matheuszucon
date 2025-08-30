@@ -1,8 +1,9 @@
 # 👨🏻‍💻 Matheus Zucon
 
-**`Empreendedor Digital | Estudante de Negócios Digitais e Administração`**
+**`Empreendedor Digital | Estudante de Negócios Digitais | Administração`**
 
 Me chamo Matheus Zucon. Sou estudante de Negócios Digitais e Administração em dupla diplomação na FAE Curitiba. Sou movido pela curiosidade e disciplina para transformar aprendizados em resultados. 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -91,14 +92,14 @@ Me chamo Matheus Zucon. Sou estudante de Negócios Digitais e Administração em
     alt="GitHub Stats" 
     height="195" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=matheuszucon&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=matheuszucon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
     align="left" 
     alt="Top Languages" 
     height="195" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszucon&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszucon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
